@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Design Sprint Workshop",
+    "date": "2025-06-10 14:00",
+    "location": "Remote",
+    "description": "A hands-on workshop to prototype and test ideas in 5 days.",
+    "image": "https://images.unsplash.com/photo-1658863025658-4a259cc68fc9?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "City Music Fest",
+    "date": "2025-06-15 18:00",
+    "location": "Chicago, IL",
+    "description": "Live performances, food stalls, and good vibes all evening.",
+    "image": "https://images.unsplash.com/photo-1616464504913-811f414de4d5?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "name": "AI & Future Tech Meetup",
+    "date": "2025-06-22 10:30",
+    "location": "New York, NY",
+    "description": "Network with developers, researchers, and startups in AI.",
+    "image": "https://plus.unsplash.com/premium_photo-1661589076395-41e5a233b66c?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "name": "Startup Pitch Night",
+    "date": "2025-07-01 19:00",
+    "location": "San Francisco, CA",
+    "description": "Pitch your startup to a panel of investors and VCs.",
+    "image": "https://images.unsplash.com/photo-1554415707-c1426270e0da?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 5,
+    "name": "React Conf 2025",
+    "date": "2025-07-10 09:00",
+    "location": "Austin, TX",
+    "description": "Everything about React – from fundamentals to advanced topics.",
+    "image": "https://images.unsplash.com/photo-1560439514-0fc9d2cd5e1b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "name": "UX Design Bootcamp",
+    "date": "2025-07-18 11:00",
+    "location": "Online",
+    "description": "Intensive 3-day bootcamp covering modern UX design principles.",
+    "image": "https://plus.unsplash.com/premium_photo-1733306548826-95daff988ae6?q=80&w=2112&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D+"
+  }
+]

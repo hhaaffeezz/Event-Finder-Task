@@ -1,0 +1,11 @@
+.slider_wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 0;
+  margin-bottom: 40px;
+}
+
+.slider_card {
+  padding: 0 10px;
+  box-sizing: border-box;
+}
