@@ -62,6 +62,7 @@
     height: auto;
     padding: 20px;
     width: 95%;
+    position: relative;
   }
 
   .nav_list {
